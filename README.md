@@ -1,0 +1,1 @@
+Simple script that executes loop command for farming discord bots
